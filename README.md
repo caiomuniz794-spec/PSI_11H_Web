@@ -10,3 +10,8 @@ Autor
 - Aprender a utilizar o GitHub.
 - Colaborar no desenvolvimento de projetos.
 O # faz um título, o ## um subtítulo e o - um item de lista.
+## Sugestão de melhoria
+- Proposta: melhorar a documentação do projeto.
+- Contributo: acrescentar informação útil para os utilizadores.
+- Autor: (Caio Muniz), 11.º H
+
